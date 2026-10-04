@@ -1,0 +1,6 @@
+fare come Fairlight CMI e EmuEmulator2, al contrario di mellotron questo deve:
+- caricare un unico campione, non multinota quindi
+- cambiare pitch con sample rate
+- filtri analogici su ogni campione
+- schermo per impostare start, end, loop points
+- altre funzioni da Fairlight tipo disegno armoniche?
