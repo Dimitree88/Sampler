@@ -5,3 +5,6 @@ fare come Fairlight CMI e EmuEmulator2, al contrario di mellotron questo deve:
 - schermo per impostare start, end, loop points
 - altre funzioni da Fairlight tipo disegno armoniche?
 - input per campionare come Roland P6 (mic, line, usb)
+
+anzi direi di fare così: con un raspberry, fare un vero e proprio clone di Kontakt, che legge le librerie originali e modificate,
+con SSD esterno, e interfaccia tipo Oscilloscopio/Farlight, mantenendo il formato standard.
